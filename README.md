@@ -1,3 +1,11 @@
+# Sleep, Stress & Academic Performance Analysis
+
+##Problem Statement
+Can increased study hours compensate for sleep deprivation, or does sleep dominate academic performance when stress is considered?
+
+
+
+
 This project predicts how well students will perform academically based on how much they sleep and how much they study. Using ordinal regression, it models grades as ordered categories (like Poor, Average, Excellent), which makes predictions more realistic and interpretable than standard regression.
 
 The model takes students’ sleep hours and study habits as inputs and estimates the likelihood of achieving each performance level. This allows students, educators, or researchers to see how changes in sleep or study patterns could impact performance.
